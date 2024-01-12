@@ -9,7 +9,7 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-from utils.handelers.send import send_mail
+from utils.handlers.send import send_mail
 
 class Ui_Send_window(object):
     def setupUi(self, Send_window):

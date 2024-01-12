@@ -9,7 +9,7 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-from utils.handelers.account import account_setting
+from utils.handlers.account import account_setting
 
 
 class Ui_Login_window(object):

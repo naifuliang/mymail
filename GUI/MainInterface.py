@@ -13,8 +13,8 @@ from PyQt5.QtCore import QStringListModel
 
 from GUI.Account_setting import Ui_Login_window
 from GUI.Send import Ui_Send_window
-from utils.handelers.receive import receive, get_all
-from utils.handelers.delete import delete_email
+from utils.handlers.receive import receive, get_all
+from utils.handlers.delete import delete_email
 
 
 class Ui_MainWindow(object):
